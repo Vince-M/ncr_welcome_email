@@ -1,0 +1,32 @@
+# Ignore build output directories
+dist/
+build/
+
+# Ignore temporary files
+*.temp
+*.swp
+
+
+# Ignore environment files ( if applicable )
+.env
+.env.*
+
+
+# Ignore node_modules if using node.js
+node_modules/
+
+
+# Ignore any hidden files
+.DS_Store
+
+
+# Various files
+*.cache
+.htaccess
+*.css.map
+
+
+# Ignore any compression files
+*.zip
+*.tar
+
